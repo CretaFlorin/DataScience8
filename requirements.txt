@@ -1,3 +1,5 @@
 numpy
 jupyterlab
 matplotlib
+tensorflow
+pandas
